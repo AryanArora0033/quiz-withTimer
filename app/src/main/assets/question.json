@@ -1,0 +1,83 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "option1": "London",
+    "option2": "Paris",
+    "option3": "Rome",
+    "option4": "Berlin",
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "option1": "Atlantic Ocean",
+    "option2": "Indian Ocean",
+    "option3": "Pacific Ocean",
+    "option4": "Arctic Ocean",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "option1": "Dollar",
+    "option2": "Euro",
+    "option3": "Yen",
+    "option4": "Won",
+    "answer": "Yen"
+  },
+  {
+    "question": "What is the currency of India?",
+    "option1": "Dollar",
+    "option2": "Euro",
+    "option3": "rupee",
+    "option4": "Won",
+    "answer": "rupee"
+  },
+  {
+    "question": "What is the largest planet in solar system?",
+    "option1": "mars",
+    "option2": "earth",
+    "option3": "venus",
+    "option4": "jupiter",
+    "answer": "jupiter"
+  },
+  {
+    "question": "Which planet is called 'Dwarf planet'?",
+    "option1": "mars",
+    "option2": "pluto",
+    "option3": "venus",
+    "option4": "jupiter",
+    "answer": "pluto"
+  },
+  {
+    "question": "What is known as the 'Red Planet'?",
+    "option1": "mars",
+    "option2": "earth",
+    "option3": "venus",
+    "option4": "jupiter",
+    "answer": "mars"
+  },
+  {
+    "question": "Where is the largest building in the world?",
+    "option1": "Dubai",
+    "option2": "India",
+    "option3": "USA",
+    "option4": "Brazil",
+    "answer": "Dubai"
+  },
+  {
+    "question": "Which city in India is known as 'Pink City'?",
+    "option1": "Jaipur",
+    "option2": "Kanpur",
+    "option3": "Ghaziabad",
+    "option4": "Chennai",
+    "answer": "Jaipur"
+  }
+  ,
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "option1": "China",
+    "option2": "Japan",
+    "option3": "South Korea",
+    "option4": "India",
+    "answer": "Japan"
+  }
+]
