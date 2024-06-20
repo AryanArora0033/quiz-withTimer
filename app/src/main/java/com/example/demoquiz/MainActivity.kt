@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun countdown() {
-        val duration: Long = TimeUnit.MINUTES.toMillis(1)
+        val duration: Long = TimeUnit.MINUTES.toMillis(10)
         object : CountDownTimer(duration, 1000) {
             override fun onTick(millisUntilFinished: Long) {
                 val sDuration: String = String.format(
